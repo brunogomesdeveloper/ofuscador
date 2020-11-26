@@ -40,6 +40,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+PASTA_DESTINO/
+PASTA_ORIGEM/
 
 # TypeScript v1 declaration files
 typings/
